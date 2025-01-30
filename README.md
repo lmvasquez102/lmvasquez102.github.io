@@ -1,1 +1,1 @@
-[My Website](https://lmvasquez102/lmvasquez102.github.io/index/index.html)
+[My Website](https://lmvasquez102.github.io/index/index.html)
